@@ -1,0 +1,16 @@
+              precision    recall  f1-score   support
+
+     Russian       1.00      1.00      1.00       500
+     English       0.96      1.00      0.98       500
+      German       0.98      0.98      0.98       500
+      French       0.99      0.99      0.99       500
+     Spanish       1.00      0.98      0.99       500
+     Italian       0.99      0.99      0.99       500
+  Portuguese       1.00      0.99      0.99       500
+       Dutch       1.00      0.99      1.00       500
+      Polish       1.00      0.99      1.00       500
+     Turkish       1.00      0.99      1.00       500
+
+    accuracy                           0.99      5000
+   macro avg       0.99      0.99      0.99      5000
+weighted avg       0.99      0.99      0.99      5000
